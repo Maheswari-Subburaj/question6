@@ -12,7 +12,7 @@ spec:
   chart:
     git: ssh://git@github.com/Maheswari-Subburaj/question6
     ref: master
-    path: question6
+    path: finalexam/question6
   values:
     ingress:
       enabled: false
